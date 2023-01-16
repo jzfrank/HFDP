@@ -1,4 +1,4 @@
-public class FillAndBoildChocolateBoiler implements Runnable {
+public class FillAndBoiledChocolateBoiler implements Runnable {
     @Override
     public void run() {
         ChocolateBoiler chocolateBoiler = ChocolateBoiler.getInstance();
