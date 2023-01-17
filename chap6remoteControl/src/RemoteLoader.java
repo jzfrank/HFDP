@@ -3,6 +3,7 @@
 public class RemoteLoader {
  
 	public static void main(String[] args) {
+		double tmp = Math.PI;
 		RemoteControl remoteControl = new RemoteControl();
  
 		Light livingRoomLight = new Light("Living Room");
