@@ -13,3 +13,5 @@ Chap3: [Decorator Pattern](https://dev.to/jzfrank/hfdp3-decorator-pattern-5a8i)
 Chap4: [Factory Pattern](https://dev.to/jzfrank/hfdp4-factory-pattern-320j)
 
 Chap5: [Singleton Pattern](https://dev.to/jzfrank/hfdp-5-singleton-pattern-2771)
+
+Chap6: [Command Pattern](https://dev.to/jzfrank/hfdp6-command-pattern-g7h)
