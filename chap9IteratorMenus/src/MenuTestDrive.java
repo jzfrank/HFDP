@@ -8,7 +8,8 @@ public class MenuTestDrive {
         DinerMenu dinerMenu = new DinerMenu();
         CafeMenu cafeMenu = new CafeMenu();
 
-        Waitress waitress = new Waitress(pancackeHouseMenu, dinerMenu, cafeMenu);
+        ArrayList menus = new ArrayList(Arrays.asList(pancackeHouseMenu, dinerMenu, cafeMenu));
+        Waitress waitress = new Waitress(menus);
         waitress.printMenu();
     }
 }
